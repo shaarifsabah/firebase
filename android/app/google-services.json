@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "729522029138",
+    "firebase_url": "https://fir-c997d.firebaseio.com",
+    "project_id": "fir-c997d",
+    "storage_bucket": "fir-c997d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729522029138:android:bc3f64222f23545db5558b",
+        "android_client_info": {
+          "package_name": "com.ewigLife.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729522029138-rgut7ducaikdt4s2fimhgfq7622docpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0O7ZugL4zM__1XpssqSHT4J5qyE-MlpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729522029138-rgut7ducaikdt4s2fimhgfq7622docpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
